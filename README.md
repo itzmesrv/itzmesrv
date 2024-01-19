@@ -1,5 +1,5 @@
 Hello Everyone!<br>
-Myself Siva Rama Varma, Masters of Data Science student at Sri Sathya Sai Instituition of Higher Learning.<br>
+Myself Siva Rama Varma, pursuing Masters of Data Science student at Sri Sathya Sai Instituition of Higher Learning.<br>
 Email: sivaramavarma5@gmail.com<br>
 LinkedIn: https://www.linkedin.com/in/srv-p/<br>
 <br>
